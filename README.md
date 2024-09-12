@@ -18,7 +18,6 @@ Another challenge was working with **cru.js**, which added a layer of complexity
 ## Conclusion
 
 This project was an excellent opportunity to consolidate my knowledge of full-stack development and the integration of various technologies. While simple, it was crucial in helping me deepen my understanding of concepts such as front-end and back-end communication, database management, and the importance of API architecture. Moreover, it laid a solid foundation for more complex projects in the future.
-
 with open(file_path, 'w') as readme_file:
     readme_file.write(readme_content)
 
